@@ -37,3 +37,4 @@ trans.sl = locales/sl-SI.json
 trans.sv = locales/sv-SE.json
 trans.tr = locales/tr-TR.json
 trans.uk = locales/uk-UA.json
+trans.vi = locales/vi-VN.json
